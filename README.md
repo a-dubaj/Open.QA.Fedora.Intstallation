@@ -1,1 +1,1 @@
-# OpenQAFedoraIntallation
+# Open QA Fedora Installation
