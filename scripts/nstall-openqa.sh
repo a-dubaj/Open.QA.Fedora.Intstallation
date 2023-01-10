@@ -43,4 +43,4 @@ key =
 secret =  
 EOF"
 
-echo "Done, preparations. Now log in one time! Then run sudo ./install-openqa-post.sh"
+echo "Done! Run sudo ./install-openqa-post.sh"
