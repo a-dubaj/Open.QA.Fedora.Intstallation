@@ -1,9 +1,9 @@
 # Open QA Fedora Installation
 
 
-Run: `sudo ./install-openqa.sh`
-Go to localhost and login
-Run `sudo ./install-openqa-post.sh`
+- Run: `sudo ./install-openqa.sh`
+- Go to localhost and login
+- Run `sudo ./install-openqa-post.sh`
 
 # Reference
 
